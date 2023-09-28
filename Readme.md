@@ -1,4 +1,6 @@
 # Introduction
+I am using Minimum time as my goal is to achieve the fastest possible lap.
+
 This repository contains algorithms that allow us to determine an optimal racing line on a race track. You can chose
 between several objectives:
 * Shortest path
