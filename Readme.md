@@ -5,7 +5,7 @@ This repository contains algorithms that allow us to determine an optimal racing
 between several objectives:
 * Shortest path
 * Minimum curvature (with or without iterative call)
-* Minimum time
+* **Minimum time**
 * Minimum time with powertrain behavior consideration
 
 The minimum curvature line is quite near to a minimum time line in corners but will differ as soon as the car's
